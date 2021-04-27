@@ -1,5 +1,5 @@
 # test
 
 <p align="center">
- <img src="compressed_video_2_1.mp4" alt="Girl in a jacket" height="500">
+ <img src="Class Diagram6.jpg" alt="Class Diagram" width="547" height="657">
 </p>
